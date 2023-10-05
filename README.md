@@ -29,7 +29,4 @@ Here are some of the projects I've worked on:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rong5026&show_icons=true&count_private=true&hide=issues&theme=shadow_green)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong5026&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) -->
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rong5026&show_icons=true&count_private=true&hide=issues)
