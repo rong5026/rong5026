@@ -8,7 +8,7 @@
 산업기능요원 백엔드 개발자로 활동하기 위해 **Java**, **Spring** 을 공부하고 있습니다. <br>
 현재 코인, 주식 자동매매에 관심이 있어 프로젝트를 진행중입니다!
 
-## 💻 Profile
+## 📖 Profile
 
 
   ∙ **Sejong University, Dept. of Computer Science & Engineering** <sub><sup>/ 2019.03 ~</sup></sub>   
@@ -38,8 +38,9 @@
 
   </span>
 
-## 📚 Team Projects
+## 💻 Projects
 
+### 👨‍👦‍👦 Team Project ###
 |                                            Project                                              |               Contest                |       Tech Stack       | Award | Date |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
 | [동물상 미팅](https://github.com/rong5026/animal_user) | 세종대학교 2023 축제 낮부스 운영 |       React, Firebase, AI         |  순수익  197,130원 | 2023.05 |
@@ -50,9 +51,9 @@
 |               [ 채널톡 해커톤 : 지구에 낙서하기](https://github.com/ChannelHackathonTeam11/Server)               |           채널톡 챌린저스 1기            | React, Node.js |   참여  | 2023.02 |
 |               [ 나만의 bash Shell 제작 : minishell](https://github.com/42-minishell-project/minishell)               |           42 Seoul          | C |   참여  | 2023.09 |
 
-<br>
 
-## 📚 Personal Project
+
+### 👨 Personal Project ###
 |                                            Project                                                       |       Tech Stack       | Date |
 | :-----------------------------------------------------------------------------------------------: | :---: | :--: |
 | [UPBIT 자동매매 및 백테스팅](https://github.com/rong5026/UpbitTrading) |       Python        | 2019 |
