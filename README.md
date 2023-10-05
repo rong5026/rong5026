@@ -38,6 +38,10 @@
 
   </span>
 
+
+<br>
+<hr>
+
 ## 💻 Projects
 
 **👨‍👦‍👦 Team Project**
