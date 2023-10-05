@@ -17,7 +17,7 @@
 
 ## 🔧 Technologies & Tools
 
-- Languages && Platforms
+- **Languages && Platforms**
 
   <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -29,7 +29,7 @@
   </span>
 
 
-- Tools
+- **Tools**
 
   <span>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
@@ -40,12 +40,6 @@
   </span>
 
 ## 📚 Projects
-
-Here are some of the projects I've worked on:
-
-1. [Project 1](https://github.com/your-username/project-1) - A brief description of the project.
-2. [Project 2](https://github.com/your-username/project-2) - Another project description.
-
 
 <!-- ## 📊 GitHub Stats
 
