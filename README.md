@@ -19,11 +19,12 @@
 
 - Languages && Platforms
 
-  <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></span>
-  <img src="https://img.shields.io/badge/JAVA-437291?style=flat&logo=openjdk&logoColor=white"/>  <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring -6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js -339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-437291?style=flat&logo=openjdk&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring -6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js -339933?style=flat&logo=nodedotjs&logoColor=white"/></span>
 </span>
 
 - Tools
