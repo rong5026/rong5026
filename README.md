@@ -16,7 +16,8 @@
  **42 Seoul** <sub><sup> 국내 SW 인재 육성 프로그램 8기 연수생 / 2022.11 ~ 2023.12</sup></sub>   
  **Coin PlatForm** <sub><sup>코인 플랫폼 예비창업팀 백엔드 개발자 / 2023.07 ~</sup></sub>   
 ## 🔧 Technologies & Tools
-### Languages && Platforms
+
+***Languages && Platforms***
 
   <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -27,7 +28,7 @@
   <img src="https://img.shields.io/badge/Node.js -339933?style=flat&logo=nodedotjs&logoColor=white"/>
   </span>
 
-#### Tools
+***Tools***
 
   <span>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
