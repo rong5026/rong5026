@@ -18,8 +18,8 @@
 ## 🔧 Technologies & Tools
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></span>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-437291?style=flat&logo=openjdk&logoColor=white"/>
 
