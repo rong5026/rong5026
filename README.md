@@ -17,10 +17,13 @@
 
 ## 🔧 Technologies & Tools
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
+
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> </a>
+
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/JAVA-437291?style=flat&logo=openjdk&logoColor=white"/>
-    <br>
+  </a>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring -6DB33F?style=flat&logo=spring&logoColor=white"/>
