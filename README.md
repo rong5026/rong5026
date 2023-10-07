@@ -1,4 +1,3 @@
-
 <!-- ## 🚀 About Me -->
 # Hong YeongHwan
 안녕하세요 👋 <br>
@@ -6,8 +5,8 @@
 <br>
 지식을 공유하며 소통하는 활동을 좋아하여 En# 동아리 멘토, 소프트웨어학과 멘토, 42Seoul 활동에 참여 하였습니다. <br>
 
-산업기능요원 백엔드 개발자로 활동하기 위해 **Java**, **Spring** 을 공부하고 있습니다. <br>
-현재 코인, 주식 자동매매에 관심이 있어 프로젝트를 진행중입니다!
+백엔드 개발자로 활동하기 위해 **Java**, **Spring** 을 공부하고 있습니다. <br>  <br>
+현재 코인, 주식 등 자동화 프로그램에 개인적인 관심이 있어 프로젝트를 진행중입니다! 
 
 ## 📖 Profile
 
@@ -20,7 +19,7 @@
 
 ***Languages && Platforms***
 
-  <span>
+   <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-437291?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
