@@ -1,4 +1,4 @@
-<!-- ## 🚀 About Me -->
+
 # Hong YeongHwan
 안녕하세요 👋 <br>
 백엔드 개발자를 희망하는 홍영환입니다. <br>
@@ -58,7 +58,6 @@
 |               [ 나만의 bash Shell 제작 : minishell](https://github.com/42-minishell-project/minishell)               |           42 Seoul          | C |   참여  | 2023.09 |
 
 
-
 **👨 Personal Project**
 |                                            Project                                                       |       Tech Stack       | Date |
 | :-----------------------------------------------------------------------------------------------: | :---: | :--: |
@@ -67,7 +66,3 @@
 
 
 <br>
-
-<!-- ## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rong5026&show_icons=true&count_private=true&hide=issues) -->
