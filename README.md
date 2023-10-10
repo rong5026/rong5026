@@ -13,7 +13,7 @@
 
   ∙ **Sejong University, Dept. of Computer Science & Engineering** <sub><sup>/ 2019.03 ~</sup></sub>   
   ∙ **En#** <sub><sup>세종대 프로그래밍 동아리 22기 멤버 / 2022.03 ~ 2023.09</sup></sub>   
-  ∙ **42 Seoul** <sub><sup> 국내 SW 인재 육성 프로그램 8기 연수생 / 2022.10 ~ 2023.11</sup></sub>   
+  ∙ **42 Seoul** <sub><sup> 국내 SW 인재 육성 프로그램 8기 연수생 / 2022.09 ~ 2023.11</sup></sub>   
   ∙ **Coin PlatForm** <sub><sup>코인 플랫폼 예비창업팀 백엔드 개발자 / 2023.07 ~</sup></sub>   
 ## 🔧 Technologies & Tools
 
