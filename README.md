@@ -48,7 +48,7 @@
 **👨‍👦‍👦 Team Project**
 |                                            Project                                              |               Contest                |       Tech Stack       | Award | Date |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
-| [동물상 미팅](https://github.com/rong5026/animal_user) | 세종대학교 2023 축제 낮부스 운영 |       React, Firebase, AI         |  실제 서비스 운영 | 2023.05 |
+| [동물상 미팅](https://github.com/rong5026/animal_user) | 세종대학교 2023 축제 낮부스 운영 |       React, Firebase, AI         |  서비스 운영 | 2023.05 |
 |       [손동작 인식을 통한 어린이 영어교육 화상 웹 플랫폼 : ENTZ](https://github.com/Imagine-ENTZ/AirDrawing)       |    2023 Microsoft Imagine Cup Competition    |           React, Spring           |  -  | 2022.12 |
 |  [Kiwoom 주식 자동매매 프로그램 : Kiwoom Auto Trading  ](https://github.com/stock-price-calculator/tradingbot)  |           세종대 창의학기제           |       Flask, Electron        | -  | 2023.03 |
 |             [병해충 정보 및 피해현황 파악 서비스 : Past Pest](https://github.com/33ohoh/android)              |     2022년 산림공공∙빅데이터 활용 창업경진 대회     |           Android, Node.js          | 장려상  | 2022.08 |
