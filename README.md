@@ -6,8 +6,7 @@
 현재 세종대학교에 재학중이며, **Java**, **Spring** 을 공부하고 있습니다.<br>
 
 코인, 매크로 등 자동화 프로그램에 관심이 많습니다. <br/>
-최근 **휴대폰을 이용한 개인서버**에 흥미가 생겨 **24시간 서버 구축**을 목표로 제작중 입니다.<br/> [ 🔗 휴대폰 서버 구축 정리 Blog  ](https://hongcoding.site/phone-server/dev-reasons/)
-## 📖 Profile
+
 
 
   ∙ **Sejong University, Dept. of Software Engineering** <sub><sup>/ 2019.03 ~</sup></sub>   
