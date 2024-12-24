@@ -5,9 +5,6 @@
 
 현재 세종대학교에 재학중이며, **Java**, **Spring** 을 공부하고 있습니다.<br>
 
-코인, 매크로 등 자동화 프로그램에 관심이 많습니다. <br/>
-
-
 
   ∙ **Sejong University, Dept. of Software Engineering** <sub><sup>/ 2019.03 ~</sup></sub>   
   ∙ **En#** <sub><sup>세종대 프로그래밍 동아리 22기 멤버 / 2022.03 ~ 2024.03</sup></sub>   
