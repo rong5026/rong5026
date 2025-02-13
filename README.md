@@ -1,11 +1,5 @@
 
 # Hong YeongHwan
-안녕하세요 👋 <br>
-백엔드 개발자를 희망하는 홍영환입니다. <br>
-
-현재 세종대학교에 재학중이며, **Java**, **Spring** 을 공부하고 있습니다.<br>
-
-
   ∙ **Sejong University, Dept. of Software Engineering** <sub><sup>/ 2019.03 ~</sup></sub>   
   ∙ **En#** <sub><sup>세종대 프로그래밍 동아리 22기 멤버 / 2022.03 ~ 2024.03</sup></sub>   
   ∙ **42 Seoul** <sub><sup> 국내 SW 인재 육성 프로그램 8기 연수생 / 2022.09 ~ 2023.11</sup></sub>   
@@ -47,6 +41,7 @@
 
 |                                            Project                                              |               Contest                |       Tech Stack       | Date |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :--: |
+|               [ Instead: AI 기반 SNS 계정 관리 자동화 서비스 ](https://github.com/YAPP-Github/25th-Web-Team-1-BE)               |           Yapp 연합 개발 동아리 25기         | Spring, AWS, Docker |   2024.11 |
 |               [ 미팅해요 동물의 숲  ](https://github.com/Animal-Meeting/Animal-Back)               |           세종대학교 2024 축제 낮부스        | Spring boot, React, Docker, AI |   2024.05 |
 |               [ SejongPeer : 세종대학교 캠퍼스 네트워킹 서비스 ](https://github.com/SejongPeer/SejongPeer-back)               |           -        | Spring boot, React, Docker |   2024.02 |
 |               [ 병해 분류 및 피해 현황 파악 서비스](https://github.com/TellMeThe-Answer/Server)               |           캡스톤 디자인        | Spring boot, Flask, AI |   2023.11 
