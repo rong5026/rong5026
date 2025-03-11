@@ -1,10 +1,10 @@
 
 # Hong YeongHwan
   ∙ **Sejong University, Dept. of Software Engineering** <sub><sup>/ 2019.03 ~</sup></sub>   
-  ∙ **En#** 세종대 프로그래밍 동아리 22기 멤버  <sub><sup>2022.03 ~ 2024.03</sup></sub>   
-  ∙ **42 Seoul** 국내 SW 인재 육성 프로그램 8기 연수생  <sub><sup>2022.09 ~ 2023.11</sup></sub>   
-  ∙ **Coin PlatForm** 코인 플랫폼 예비창업팀 백엔드 개발자 <sub><sup> 2023.07 ~ 2023.11</sup></sub>   
-  ∙ **YAPP** 연합 개발 동아리 <sub><sup> 2024.11 ~ ing </sup></sub>   
+  ∙ **En#** <sub><sup>세종대 프로그래밍 동아리 22기 멤버 / 2022.03 ~ 2024.03</sup></sub>   
+  ∙ **42 Seoul** <sub><sup>국내 SW 인재 육성 프로그램 8기 연수생  / 2022.09 ~ 2023.11</sup></sub>   
+  ∙ **Coin PlatForm** <sub><sup>코인 플랫폼 예비창업팀 백엔드 개발자 / 2023.07 ~ 2023.11</sup></sub>   
+  ∙ **YAPP** <sub><sup>연합 개발 동아리 / 2024.11 ~ ing </sup></sub>   
 ## 🔧 Technologies & Tools
 
 ***Languages && Platforms***
