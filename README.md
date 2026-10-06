@@ -59,7 +59,7 @@
 |                                            Project                                                       |       Tech Stack       | Date |
 | :-----------------------------------------------------------------------------------------------: | :---: | :--: |
 | [UPBIT 자동매매 및 백테스팅](https://github.com/rong5026/UpbitTrading) |       Python        | 2019 |
-| [Bybit 선물 자동매매](https://github.com/rong5026/Bybit-Trading-Bot) | Python         | ~ ing |
+| [Bybit 선물 자동매매](https://github.com/rong5026/Bybit-Trading-Bot) | Python         |  2022 |
 
 
 <br>
