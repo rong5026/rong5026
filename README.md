@@ -5,7 +5,6 @@
   ∙ **42 Seoul** <sub><sup>국내 SW 인재 육성 프로그램 8기 연수생  / 2022.09 ~ 2023.11</sup></sub>   
   ∙ **Coin PlatForm** <sub><sup>코인 플랫폼 예비창업팀 백엔드 개발자 / 2023.07 ~ 2023.11</sup></sub>   
   ∙ **YAPP** <sub><sup>연합 개발 동아리 / 2024.11 ~ 2025.03</sup></sub>   
-  ∙ **산업기능요원** <sub><sup>2025.04 ~ ing</sup></sub>   
 
 ## 🔧 Technologies & Tools
 
