@@ -6,31 +6,6 @@
   ∙ **Coin PlatForm** <sub><sup>코인 플랫폼 예비창업팀 백엔드 개발자 / 2023.07 ~ 2023.11</sup></sub>   
   ∙ **YAPP** <sub><sup>연합 개발 동아리 / 2024.11 ~ 2025.03</sup></sub>   
 
-## 🔧 Technologies & Tools
-
-***Languages && Platforms***
-
-   <span>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-437291?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>  
-
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring -6DB33F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js -339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
-  </span>
-
-***Tools***
-
-  <span>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-black?logo=figma">
-<img src="https://img.shields.io/badge/Postman-critical?logo=postman&logoColor=white">
-  </span>
-
 
 <br>
 <hr>
