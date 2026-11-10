@@ -15,7 +15,7 @@
 |               [ 쇼핑몰 최저가 알림 서비스 : 무신사웨건 ](https://github.com/MusinsaWagon/back)               |           -       | Spring, React, Python |   2024.10 |
 |               [ 미팅해요 동물의 숲  ](https://github.com/Animal-Meeting/Animal-Back)               |           세종대학교 2024 축제 낮부스        | Spring boot, React, Docker, AI |   2024.05 |
 |               [ SejongPeer : 세종대학교 캠퍼스 네트워킹 서비스 ](https://github.com/SejongPeer/SejongPeer-back)               |           -        | Spring boot, React, Docker |   2024.02 |
-|               [ 병해 분류 및 피해 현황 파악 서비스](https://github.com/TellMeThe-Answer/Server)               |           캡스톤 디자인        | Spring boot, Flask, AI |   2023.11 
+#|               [ 병해 분류 및 피해 현황 파악 서비스](https://github.com/TellMeThe-Answer/Server)               |           캡스톤 디자인        | Spring boot, Flask, AI |   2023.11 
 | [동물상 미팅](https://github.com/rong5026/animal_user) | 세종대학교 2023 축제 낮부스  |       React, Firebase, AI         | 2023.05 |
 |  [Kiwoom 주식 자동매매 프로그램 : Kiwoom Auto Trading  ](https://github.com/stock-price-calculator/tradingbot)  |           세종대 창의학기제           |       Flask, Electron         | 2023.03 |
 |       [손동작 인식을 통한 어린이 영어교육 화상 웹 플랫폼 : ENTZ](https://github.com/Imagine-ENTZ/AirDrawing)       |    2023 Microsoft Imagine Cup Competition    |           React, Spring          | 2022.12 |
